@@ -1,0 +1,236 @@
+---
+title: "Sharleen Weatherley's resume"
+author: Sharleen Weatherley
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+```{css remove-side-panel-after-first-page, echo=FALSE}
+
+.pagedjs_page:not(:first-of-type) {
+  --sidebar-width: 0rem;
+  --sidebar-background-color: #ffffff;
+
+}
+
+```
+
+<!-- Put these two lines in the end of the above chunk in order to make the second page full width -->
+<!--   --main-width: calc(var(--content-width) - var(--sidebar-width)); -->
+<!--   --decorator-horizontal-margin: 0.2in; -->
+
+
+Aside
+================================================================================
+
+
+<!-- ![Sharleen Weatherley](https://avatars.githubusercontent.com/u/45049756?size=400&v=4){width=80%} -->
+
+
+<i class="fa-regular fa-circle-user"></i> Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> sharleen@fastmail.com
+- <i class="fa fa-github"></i> [Github account](https://github.com/sharleenw)
+- <i class="fa-solid fa-globe"></i> [Data analysis blog](https://sharleenw.github.io)
+
+
+<i class="fa-solid fa-star"></i> Reproducible Report Example {#example}
+--------------------------------------------------------------------------------
+
+To see a reproducible report I wrote using R Markdown, please click [here](http://ccrnr.ca/nclex---data.html) and view either the 2018 or 2019 English reports.
+
+
+<i class="fa-solid fa-chart-line"></i> Technical Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Data extraction: **SQL**
+
+- Data merging, cleaning, transforming: **R (tidyverse, janitor), SPSS**
+
+- Data visualizing: **R (ggplot2, kable, gt)**
+
+- Reproducible reporting: **R Markdown, Shiny, flexdashboard, LaTeX**
+
+- Version control: **git, GitHub, Azure DevOps**
+
+- Microsoft Office: **Excel, Access, Word, Outlook, PowerPoint**
+
+
+
+<!-- <font size="0.1">This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown) and was last updated on `r Sys.Date()`.</font> -->
+
+
+Main
+================================================================================
+
+Sharleen Weatherley {#title}
+--------------------------------------------------------------------------------
+
+### A Data Scientist (she/her) located in British Columbia, looking for a job that analyzes and visualizes data using R.
+  
+
+Professional Experience {data-icon=laptop-code}
+--------------------------------------------------------------------------------
+
+### Data Scientist
+
+College of Nurses of Ontario
+
+Toronto, ON
+
+July 2017 - February 2021
+
+::: concise
+- Created reproducible data reports, dashboards, and visualizations using R and R Markdown, SQL, flexdashboard, and git.
+- Used the R programming language and attention to detail to accurately extract, clean, transform, and visualize data, including explored and unexplored areas of the organization's administrative data.
+- Extracted administrative data from databases using SQL for data requests by internal and external stakeholders.
+- Designed, built, and analyzed a relational database using Microsoft Access as part of the methodology for a major corporate research project.
+- Created local R packages to ensure consistent and efficient projects across the team.
+- Ensured all projects had appropriate documentation so they could be run again easily in the future.
+- Maintained up-to-date programming knowledge by attending talks and conferences and reading articles and blogs.
+- Instructed new coworkers about R and the team’s processes, projects, and workflows.
+- Created and analyzed surveys using SurveyGizmo, in collaboration with other teams.
+- Communicated and collaborated with technical and non-technical stakeholders internal and external to the organization.
+- Respected the privacy of highly-sensitive personal information records by following the organization's privacy policies.
+:::
+
+### Statistics Associate
+
+College of Nurses of Ontario
+
+Toronto, ON
+
+October 2015 - July 2017
+
+::: concise
+- Assisted the Data Scientist in the role discussed above.
+- Used the Microsoft Office suite, particularly Excel and Word, for creating reports and visualizations.
+- Used SPSS to clean data and perform statistical tests.
+:::
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### McMaster University
+
+M.Sc. in Statistics
+
+Hamilton, ON
+
+2015
+
+- Awarded $32,500 in scholarships.
+
+### McMaster University
+
+B.Eng.Bio. in Chemical Engineering and Bioengineering
+
+Hamilton, ON
+
+2011
+
+- Thesis Title: Foam Granulation Using a Twin Screw Extruder
+- Awarded $40,400 in scholarships.
+
+
+Other Jobs Worked {data-icon=water}
+--------------------------------------------------------------------------------
+
+### Industrial Whitewater Rescue Technician
+
+N/A
+
+Hope, BC
+
+2022
+
+### Whitewater Rafting Guide
+
+N/A
+
+Squamish, BC
+
+2021 - 2022
+
+### Food Rescue Driver
+
+N/A
+
+Squamish, BC
+
+2022
+
+### Teaching Assistant (Engineering, Programming, and Math)
+
+McMaster University
+
+Hamilton, ON
+
+2007 - 2013
+
+### Research Assistant (Chemical Engineering)
+
+McMaster University
+
+Hamilton, ON
+
+2009 - 2012
+
+
+Awards {data-icon=award}
+--------------------------------------------------------------------------------
+
+### College of Nurses of Ontario
+
+Received the highest internal awards for both technical competency and professionalism.
+
+N/A
+
+2021
+
+### RStudio
+
+Received the RStudio Conference 2020 Diversity Scholarship, awarded in San Francisco.
+
+N/A
+
+2020
+
+
+### McMaster University
+
+Awarded the Chemical Engineering Teaching Assistant Award, in recognition of teaching excellence.
+
+N/A
+
+2010
+
+Volunteer Work {data-icon=handshake-angle}
+--------------------------------------------------------------------------------
+
+### Squamish Helping Hands
+
+N/A
+
+Squamish, BC
+
+November 2021 - August 2022
+
+Volunteered at the Squamish Food Bank 2-3 times a week. Duties included collecting and sorting food donations and running the Food Bank during open hours. Also created a report using R Markdown to visualize the results of a survey the staff had conducted with the Food Bank's users.
+
+### Halton Eastern Bluebird Club
+
+N/A
+
+Oakville, ON
+
+2018-2020
+
+Volunteered as an Eastern Bluebird nest-box monitor during the summer months.
