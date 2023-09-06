@@ -38,7 +38,7 @@ Aside
 - <i class="fa fa-envelope"></i> sharleen@fastmail.com
 - <i class="fa-solid fa-globe"></i> [Website](https://sharleenw.github.io)
 - <i class="fa fa-github"></i> [Github](https://github.com/sharleenw)
-- <i class="fab fa-mastodon"></i> [Fosstodon](https://fosstodon.org/@sharleen)
+- <i class="fab fa-mastodon"></i> [Mastodon](https://fosstodon.org/@sharleen)
 
 
 <i class="fa-solid fa-star"></i> Reproducible Report Example {#example}
