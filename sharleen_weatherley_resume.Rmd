@@ -35,7 +35,7 @@ Aside
 <i class="fa-regular fa-circle-user"></i> Contact Info {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-envelope"></i> sharleen@fastmail.com
+- <i class="fa fa-envelope"></i> [Email](mailto:sharleen@fastmail.com)
 - <i class="fa-solid fa-globe"></i> [Website](https://sharleenw.github.io)
 - <i class="fa fa-github"></i> [Github](https://github.com/sharleenw)
 - <i class="fab fa-mastodon"></i> [Mastodon](https://fosstodon.org/@sharleen)
