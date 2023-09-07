@@ -89,16 +89,17 @@ July 2017 - February 2021
 
 ::: concise
 - Created reproducible reports, dashboards, and visualizations using SQL, R, and git.
-- Used attention to detail to accurately query, clean, merge, transform, and visualize data from the organization's administrative databases.
-- Validated the organization's data warehouse annually.
+- Used attention to detail to accurately query, clean, merge, filter, transform, and visualize data from the organization's CRM database and data warehouse.
+- Validated the organization's data warehouse on a regular basis.
+- Created a local data warehouse for my team when the organization's data warehouse was mostly deleted in a hacking event.
 - Instructed new coworkers about R and the team’s workflows and projects.
-- Communicated and collaborated with technical and non-technical stakeholders, internal and external to the organization.
 - Created local R packages to ensure consistent and efficient projects across the team.
 - Ensured all projects had appropriate documentation so they could be run again easily in the future.
-- Extracted data for ad-hoc internal and external data requests.
+<!-- - Extracted data for ad-hoc internal and external data requests. -->
 - Designed, built, and analyzed a relational database using Microsoft Access as part of the methodology for a major corporate research project.
-- Maintained up-to-date programming knowledge by attending talks and conferences and reading articles and blogs.
 - Created and analyzed surveys using SurveyGizmo.
+- Maintained up-to-date programming knowledge by attending talks and conferences and reading articles and blogs.
+- Communicated and collaborated with technical and non-technical stakeholders, internal and external to the organization.
 - Respected the privacy of highly-sensitive personal information records by following the organization's privacy policies.
 :::
 
