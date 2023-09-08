@@ -37,7 +37,8 @@ Aside
 
 - <i class="fa fa-envelope"></i> [Email](mailto:sharleen@fastmail.com)
 - <i class="fa-solid fa-globe"></i> [Website](https://sharleenw.github.io)
-- <i class="fa fa-github"></i> [Github](https://github.com/sharleenw)
+- <i class="fa fa-github"></i> [GitHub](https://github.com/sharleenw)
+- <i class="fa fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/sharleenw)
 - <i class="fab fa-mastodon"></i> [Mastodon](https://fosstodon.org/@sharleen)
 
 
@@ -73,7 +74,7 @@ Main
 Sharleen Weatherley {#title}
 --------------------------------------------------------------------------------
 
-### A Data Scientist (she/her) located in British Columbia, looking for a job that analyzes and visualizes data using R.
+### A Data Scientist (she/her) who is passionate about analyzing and visualizing data using SQL, R, and git. Loves learning new skills to more efficiently complete tasks and create solutions. Based in British Columbia.
   
 
 Professional Experience {data-icon=laptop-code}
@@ -91,11 +92,10 @@ July 2017 - February 2021
 - Created reproducible reports, dashboards, and visualizations using SQL, R, and git.
 - Used attention to detail to accurately query, clean, merge, filter, transform, and visualize data from the organization's CRM database and data warehouse.
 - Validated the organization's data warehouse on a regular basis.
-- Created a local data warehouse for my team when the organization's data warehouse was mostly deleted in a hacking event.
 - Instructed new coworkers about R and the team’s workflows and projects.
 - Created local R packages to ensure consistent and efficient projects across the team.
 - Ensured all projects had appropriate documentation so they could be run again easily in the future.
-<!-- - Extracted data for ad-hoc internal and external data requests. -->
+- Extracted data for ad-hoc internal and external data requests.
 - Designed, built, and analyzed a relational database using Microsoft Access as part of the methodology for a major corporate research project.
 - Created and analyzed surveys using SurveyGizmo.
 - Maintained up-to-date programming knowledge by attending talks and conferences and reading articles and blogs.
