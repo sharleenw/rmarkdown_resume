@@ -53,7 +53,7 @@ To see a reproducible report I wrote using R Markdown, please click [here](http:
 
 - Data extraction: **SQL, R (dbplyr)**
 
-- Data merging, cleaning, transforming: **R (tidyverse, janitor), SPSS**
+- Data merging, cleaning, transforming, modelling: **R (tidyverse, janitor, tidymodels), SPSS**
 
 - Data visualizing: **R (ggplot2, kable, gt)**
 
@@ -90,7 +90,7 @@ July 2017 - February 2021
 
 ::: concise
 - Created reproducible reports, dashboards, and visualizations using SQL, R, and git.
-- Used attention to detail to accurately query, clean, merge, filter, transform, and visualize data from the organization's CRM database and data warehouse.
+- Used attention to detail to accurately query, clean, merge, filter, transform, model, and visualize data from the organization's CRM database and data warehouse.
 - Validated the organization's data warehouse on a regular basis.
 - Instructed new coworkers about R and the team’s workflows and projects.
 - Created local R packages to ensure consistent and efficient projects across the team.
@@ -115,7 +115,7 @@ October 2015 - July 2017
 - Assisted the Data Scientist in the role discussed above.
 - Used the Microsoft Office suite, particularly Excel and Word, for creating reports and visualizations.
 - Used SPSS to clean data and perform statistical tests.
-- Completely updated the external data request process, so that it became paperless and the turnaround time decreased from 6-8 weeks to days
+- Completely updated the external data request process, so that it became paperless and the turnaround time decreased from 6-8 weeks to days.
 :::
 
 
